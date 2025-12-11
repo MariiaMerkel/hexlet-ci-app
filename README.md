@@ -35,5 +35,4 @@ This repository is created and maintained by the team and the community of Hexle
 
 See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
-![Status](https://github.com/MariiaMerkel/
-hexlet-ci-app/actions/workflows/ci.yml/badge.svg)
+[![main](https://github.com/MariiaMerkel/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/MariiaMerkel/hexlet-ci-app/actions/workflows/main.yml)
